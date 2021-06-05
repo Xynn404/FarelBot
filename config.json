@@ -1,0 +1,23 @@
+{
+    "ownerNumber": "6281228096110@s.whatsapp.net",
+    "ownerName": "Farell",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "Xynn Bot",
+    "pathImg": "./media/Itsuki.jpg",
+    "lolkey": "YOUR_APIKEY",
+    "sesidInsta": "default",
+    "sessionName": "FarellXynn",
+    "txtDonasi": "GOPAY : ISI_SINI\nTrakteer : ISI_SINI\nSaweeria : ISI_SINI\nPulsa : ISI_SINI",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
